@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ap200506-sudo/me/tree/master/0867-transpose-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ap200506-sudo/me/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ap200506-sudo/me/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2549-count-distinct-numbers-on-board](https://github.com/ap200506-sudo/me/tree/master/2549-count-distinct-numbers-on-board) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ap200506-sudo/me/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ap200506-sudo/me/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ap200506-sudo/me/tree/master/0189-rotate-array) |
+| [2549-count-distinct-numbers-on-board](https://github.com/ap200506-sudo/me/tree/master/2549-count-distinct-numbers-on-board) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ap200506-sudo/me/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
 |  |
@@ -87,11 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ap200506-sudo/me/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/ap200506-sudo/me/tree/master/0867-transpose-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ap200506-sudo/me/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2549-count-distinct-numbers-on-board](https://github.com/ap200506-sudo/me/tree/master/2549-count-distinct-numbers-on-board) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ap200506-sudo/me/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/ap200506-sudo/me/tree/master/0242-valid-anagram) |
+| [2549-count-distinct-numbers-on-board](https://github.com/ap200506-sudo/me/tree/master/2549-count-distinct-numbers-on-board) |
 ## Sorting
 |  |
 | ------- |
