@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ap200506-sudo/me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ap200506-sudo/me/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ap200506-sudo/me/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/ap200506-sudo/me/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/ap200506-sudo/me/tree/master/0867-transpose-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ap200506-sudo/me/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ap200506-sudo/me/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ap200506-sudo/me/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/ap200506-sudo/me/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ap200506-sudo/me/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/ap200506-sudo/me/tree/master/0560-subarray-sum-equals-k) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ap200506-sudo/me/tree/master/2549-count-distinct-numbers-on-board) |
 ## Sorting
 |  |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ap200506-sudo/me/tree/master/0225-implement-stack-using-queues) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ap200506-sudo/me/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ap200506-sudo/me/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
