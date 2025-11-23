@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ap200506-sudo/me/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/ap200506-sudo/me/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ap200506-sudo/me/tree/master/0189-rotate-array) |
 ## Two Pointers
