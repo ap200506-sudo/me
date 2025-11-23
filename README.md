@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ap200506-sudo/me/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/ap200506-sudo/me/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/ap200506-sudo/me/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ap200506-sudo/me/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ap200506-sudo/me/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/ap200506-sudo/me/tree/master/0392-is-subsequence) |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ap200506-sudo/me/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ap200506-sudo/me/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
