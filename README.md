@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ap200506-sudo/me/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ap200506-sudo/me/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ap200506-sudo/me/tree/master/0189-rotate-array) |
+| [1688-count-of-matches-in-tournament](https://github.com/ap200506-sudo/me/tree/master/1688-count-of-matches-in-tournament) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ap200506-sudo/me/tree/master/2549-count-distinct-numbers-on-board) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ap200506-sudo/me/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ap200506-sudo/me/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ap200506-sudo/me/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/ap200506-sudo/me/tree/master/0867-transpose-matrix) |
+| [1688-count-of-matches-in-tournament](https://github.com/ap200506-sudo/me/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ap200506-sudo/me/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ap200506-sudo/me/tree/master/2549-count-distinct-numbers-on-board) |
 ## Hash Table
