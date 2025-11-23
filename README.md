@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ap200506-sudo/me/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/ap200506-sudo/me/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ap200506-sudo/me/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ap200506-sudo/me/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ap200506-sudo/me/tree/master/0189-rotate-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ap200506-sudo/me/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/ap200506-sudo/me/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/ap200506-sudo/me/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ap200506-sudo/me/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/ap200506-sudo/me/tree/master/0392-is-subsequence) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ap200506-sudo/me/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/ap200506-sudo/me/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
