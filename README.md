@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ap200506-sudo/me/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ap200506-sudo/me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ap200506-sudo/me/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/ap200506-sudo/me/tree/master/0349-intersection-of-two-arrays) |
 | [0867-transpose-matrix](https://github.com/ap200506-sudo/me/tree/master/0867-transpose-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ap200506-sudo/me/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ap200506-sudo/me/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ap200506-sudo/me/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ap200506-sudo/me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ap200506-sudo/me/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/ap200506-sudo/me/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/ap200506-sudo/me/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/ap200506-sudo/me/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ap200506-sudo/me/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ap200506-sudo/me/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ap200506-sudo/me/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ap200506-sudo/me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/ap200506-sudo/me/tree/master/0349-intersection-of-two-arrays) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ap200506-sudo/me/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Divide and Conquer
 |  |
@@ -97,11 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ap200506-sudo/me/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/ap200506-sudo/me/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/ap200506-sudo/me/tree/master/0349-intersection-of-two-arrays) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ap200506-sudo/me/tree/master/2549-count-distinct-numbers-on-board) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ap200506-sudo/me/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/ap200506-sudo/me/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
