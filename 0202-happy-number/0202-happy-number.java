@@ -1,25 +1,24 @@
 class Solution {
     public boolean isHappy(int n) {
 
-        HashSet <Integer> h = new HashSet<Integer>();
-        boolean changed = true;
-
+        HashSet <Integer> h = new HashSet <Integer>();
+        boolean changed=true;
+        
+        
+       
         while(!h.contains(n)){
             h.add(n);
-            int ans=0;
-            
+            int sum=0;
             while(n!=0){
-                int lastdig=n%10;
-                ans+= lastdig*lastdig;
+                int ld=n%10;
+                sum+=ld*ld;
                 n=n/10;
-                
             }
-            
-            
-            if(ans==1){
+            if(sum==1){
                 return true;
             }
-            n=ans;
+            n=sum;
+            
         }
         return false;
     }
