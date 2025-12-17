@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ap200506-sudo/me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ap200506-sudo/me/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ap200506-sudo/me/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/ap200506-sudo/me/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/ap200506-sudo/me/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ap200506-sudo/me/tree/master/0560-subarray-sum-equals-k) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ap200506-sudo/me/tree/master/0747-largest-number-at-least-twice-of-others) |
