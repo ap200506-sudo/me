@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ap200506-sudo/me/tree/master/0867-transpose-matrix) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ap200506-sudo/me/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ap200506-sudo/me/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1436-destination-city](https://github.com/ap200506-sudo/me/tree/master/1436-destination-city) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ap200506-sudo/me/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/ap200506-sudo/me/tree/master/1470-shuffle-the-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ap200506-sudo/me/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ap200506-sudo/me/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ap200506-sudo/me/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/ap200506-sudo/me/tree/master/0392-is-subsequence) |
+| [1436-destination-city](https://github.com/ap200506-sudo/me/tree/master/1436-destination-city) |
 | [3340-check-balanced-string](https://github.com/ap200506-sudo/me/tree/master/3340-check-balanced-string) |
 ## Dynamic Programming
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ap200506-sudo/me/tree/master/0645-set-mismatch) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ap200506-sudo/me/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ap200506-sudo/me/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1436-destination-city](https://github.com/ap200506-sudo/me/tree/master/1436-destination-city) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ap200506-sudo/me/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ap200506-sudo/me/tree/master/2549-count-distinct-numbers-on-board) |
 ## Sorting
