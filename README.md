@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/ap200506-sudo/me/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/ap200506-sudo/me/tree/master/1470-shuffle-the-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ap200506-sudo/me/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ap200506-sudo/me/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/ap200506-sudo/me/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ap200506-sudo/me/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ap200506-sudo/me/tree/master/2226-maximum-candies-allocated-to-k-children) |
