@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/ap200506-sudo/me/tree/master/1436-destination-city) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ap200506-sudo/me/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ap200506-sudo/me/tree/master/2549-count-distinct-numbers-on-board) |
+| [3829-design-ride-sharing-system](https://github.com/ap200506-sudo/me/tree/master/3829-design-ride-sharing-system) |
 ## Sorting
 |  |
 | ------- |
@@ -187,11 +188,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/ap200506-sudo/me/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ap200506-sudo/me/tree/master/0225-implement-stack-using-queues) |
+| [3829-design-ride-sharing-system](https://github.com/ap200506-sudo/me/tree/master/3829-design-ride-sharing-system) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ap200506-sudo/me/tree/master/0225-implement-stack-using-queues) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ap200506-sudo/me/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3829-design-ride-sharing-system](https://github.com/ap200506-sudo/me/tree/master/3829-design-ride-sharing-system) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -221,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ap200506-sudo/me/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ap200506-sudo/me/tree/master/0145-binary-tree-postorder-traversal) |
+## Data Stream
+|  |
+| ------- |
+| [3829-design-ride-sharing-system](https://github.com/ap200506-sudo/me/tree/master/3829-design-ride-sharing-system) |
 <!---LeetCode Topics End-->
