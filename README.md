@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ap200506-sudo/me/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/ap200506-sudo/me/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ap200506-sudo/me/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/ap200506-sudo/me/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ap200506-sudo/me/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ap200506-sudo/me/tree/master/0084-largest-rectangle-in-histogram) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ap200506-sudo/me/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ap200506-sudo/me/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ap200506-sudo/me/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/ap200506-sudo/me/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/ap200506-sudo/me/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ap200506-sudo/me/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ap200506-sudo/me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ap200506-sudo/me/tree/master/0189-rotate-array) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ap200506-sudo/me/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ap200506-sudo/me/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ap200506-sudo/me/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ap200506-sudo/me/tree/master/0349-intersection-of-two-arrays) |
