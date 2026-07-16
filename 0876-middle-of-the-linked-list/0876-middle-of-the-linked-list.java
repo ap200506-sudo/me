@@ -10,23 +10,23 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        int count=0;
         ListNode curr=head;
+        int size=0;
         while(curr!=null){
             curr=curr.next;
-            count++;
+            size++;
         }
-        if(count == 1){
-            return head;
-        }
-        int mid=count/2 ;
-        int i=1;
+        int sec=0;
         curr=head;
-        while(i<mid){
+        while(curr!=null){
+            if(sec==size/2){
+                
+                return curr;
+            }
+            sec++;
             curr=curr.next;
-            i++;
         }
-        return curr.next;
+        return null;
         
     }
 }
