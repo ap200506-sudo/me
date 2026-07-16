@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ap200506-sudo/me/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ap200506-sudo/me/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ap200506-sudo/me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ap200506-sudo/me/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ap200506-sudo/me/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ap200506-sudo/me/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ap200506-sudo/me/tree/master/0240-search-a-2d-matrix-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ap200506-sudo/me/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/ap200506-sudo/me/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ap200506-sudo/me/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ap200506-sudo/me/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ap200506-sudo/me/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/ap200506-sudo/me/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ap200506-sudo/me/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/ap200506-sudo/me/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ap200506-sudo/me/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/ap200506-sudo/me/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ap200506-sudo/me/tree/master/0349-intersection-of-two-arrays) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ap200506-sudo/me/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ap200506-sudo/me/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ap200506-sudo/me/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ap200506-sudo/me/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ap200506-sudo/me/tree/master/0349-intersection-of-two-arrays) |
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ap200506-sudo/me/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ap200506-sudo/me/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Tree
 |  |
