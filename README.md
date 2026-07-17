@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ap200506-sudo/me/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ap200506-sudo/me/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ap200506-sudo/me/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/ap200506-sudo/me/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/ap200506-sudo/me/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ap200506-sudo/me/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ap200506-sudo/me/tree/master/0645-set-mismatch) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ap200506-sudo/me/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ap200506-sudo/me/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ap200506-sudo/me/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/ap200506-sudo/me/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/ap200506-sudo/me/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ap200506-sudo/me/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ap200506-sudo/me/tree/master/0645-set-mismatch) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ap200506-sudo/me/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ap200506-sudo/me/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ap200506-sudo/me/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/ap200506-sudo/me/tree/master/0496-next-greater-element-i) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ap200506-sudo/me/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ap200506-sudo/me/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Design
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ap200506-sudo/me/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/ap200506-sudo/me/tree/master/0496-next-greater-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
