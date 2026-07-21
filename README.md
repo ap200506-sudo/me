@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ap200506-sudo/me/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/ap200506-sudo/me/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ap200506-sudo/me/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0994-rotting-oranges](https://github.com/ap200506-sudo/me/tree/master/0994-rotting-oranges) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ap200506-sudo/me/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/ap200506-sudo/me/tree/master/1436-destination-city) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ap200506-sudo/me/tree/master/1441-build-an-array-with-stack-operations) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/ap200506-sudo/me/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/ap200506-sudo/me/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/ap200506-sudo/me/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/ap200506-sudo/me/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ap200506-sudo/me/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ap200506-sudo/me/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/ap200506-sudo/me/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/ap200506-sudo/me/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
