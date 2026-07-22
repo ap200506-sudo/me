@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ap200506-sudo/me/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ap200506-sudo/me/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ap200506-sudo/me/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/ap200506-sudo/me/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ap200506-sudo/me/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/ap200506-sudo/me/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ap200506-sudo/me/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/ap200506-sudo/me/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/ap200506-sudo/me/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ap200506-sudo/me/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ap200506-sudo/me/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ap200506-sudo/me/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/ap200506-sudo/me/tree/master/0543-diameter-of-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
