@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ap200506-sudo/me/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ap200506-sudo/me/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ap200506-sudo/me/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ap200506-sudo/me/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ap200506-sudo/me/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ap200506-sudo/me/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/ap200506-sudo/me/tree/master/0463-island-perimeter) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ap200506-sudo/me/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ap200506-sudo/me/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ap200506-sudo/me/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ap200506-sudo/me/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ap200506-sudo/me/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ap200506-sudo/me/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/ap200506-sudo/me/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ap200506-sudo/me/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ap200506-sudo/me/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ap200506-sudo/me/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ap200506-sudo/me/tree/master/0496-next-greater-element-i) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ap200506-sudo/me/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ap200506-sudo/me/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ap200506-sudo/me/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ap200506-sudo/me/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ap200506-sudo/me/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/ap200506-sudo/me/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ap200506-sudo/me/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ap200506-sudo/me/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ap200506-sudo/me/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ap200506-sudo/me/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Tree
 |  |
@@ -290,10 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ap200506-sudo/me/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ap200506-sudo/me/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ap200506-sudo/me/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ap200506-sudo/me/tree/master/0347-top-k-frequent-elements) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -322,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/ap200506-sudo/me/tree/master/0134-gas-station) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ap200506-sudo/me/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
