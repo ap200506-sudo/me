@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ap200506-sudo/me/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ap200506-sudo/me/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/ap200506-sudo/me/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/ap200506-sudo/me/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ap200506-sudo/me/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ap200506-sudo/me/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/ap200506-sudo/me/tree/master/0066-plus-one) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ap200506-sudo/me/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/ap200506-sudo/me/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ap200506-sudo/me/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ap200506-sudo/me/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ap200506-sudo/me/tree/master/0240-search-a-2d-matrix-ii) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ap200506-sudo/me/tree/master/0053-maximum-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/ap200506-sudo/me/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/ap200506-sudo/me/tree/master/0392-is-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ap200506-sudo/me/tree/master/0718-maximum-length-of-repeated-subarray) |
